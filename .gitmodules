@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mapping"]
+	path = mapping
+	url = https://github.com/serafinialessio/mapping
+	shallow = true
+	registered = true
