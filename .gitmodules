@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dformula"]
+	path = dformula
+	url = https://github.com/serafinialessio/dformula
 [submodule "mapping"]
 	path = mapping
 	url = https://github.com/serafinialessio/mapping
