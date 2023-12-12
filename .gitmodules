@@ -5,6 +5,3 @@
 [submodule "dformula"]
 	path = dformula
 	url = https://github.com/serafinialessio/dformula
-[submodule "mapping"]
-	path = mapping
-	url = https://github.com/serafinialessio/mapping
